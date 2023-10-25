@@ -6,6 +6,8 @@ A very basic program to understand the basics of Machine Learning .
 
 <p>Please note that this model is just a starting point and does not take into account additional factors such as commuting time, public transportation availability, nearby parks, crime rates, and more. To get more accurate predictions, additional features should be incorporated.</p>
 
+<p> NOTE :: THERES A SAMPLE TRAINING DATASET GIVEN AS WELL, WHICH GOES BY THE NAME "Housedata.csv" </p>
+
 
 Requirements
 <br>
